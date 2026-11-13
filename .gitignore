@@ -1,0 +1,13 @@
+# 本地产物、备份与临时文件不要进仓库
+*.BACKUP
+*.bak
+*.db
+*.apk
+*.img
+*.zip
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+s6_verify/
